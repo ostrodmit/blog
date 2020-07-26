@@ -14,4 +14,4 @@ I am a researcher currently based in Paris and working on various aspects of mac
 
 The purpose of this blog is to present my research to a broader audience.
 
-[Here](https://ostrodmit.blog/) you can find some posts on the topics I was interested during my PhD.
+[Here](https://ostrodmit.wordpress.com/) you can find some posts on the topics I was interested during my PhD.
